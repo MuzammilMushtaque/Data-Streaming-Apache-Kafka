@@ -14,7 +14,7 @@ Make sure you have Docker and Docker Compose installed on your system. You can f
    docker-compose -f docker-compose.yml up -d
    ```
 
-6. Verify that the containers are running:
+6. Open new terminal, verify that the containers are running:
    ```bash
    docker ps
    ```
