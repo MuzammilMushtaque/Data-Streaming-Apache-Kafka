@@ -60,11 +60,6 @@ Feel free to explore and modify these Python scripts according to your requireme
 
 ## Running the Python Application
 
-Ensure you have the required Python packages installed:
-```bash
-pip install -r requirements.txt
-```
-
 Run the producer script to generate and send heartbeat data:
 ```bash
 python producer.py
